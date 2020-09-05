@@ -1,8 +1,9 @@
 ```
-~ Masukan Judul
-~ Pilih Daftar 
-~ Tampilkan Url File
-~ Pilih Dan Buka ke Browser
+~ Cuman Biar Gak Ribet Pas Download Anime 
+  Batch , di Kusonime.com
 ```
+
+
+
 ----------
 ###### © Copyright 2020 Ezz-Kun
