@@ -142,7 +142,7 @@ class _KusoNime(object):
 			_ops = int(input(f'\n {b}[{h}»{p}Kuso{h}«{b}]{p} Open To Browser {b}≽ {p}'))
 			if (_ops-1) < len(self.links):
 #				print(self.links[_ops-1])
-				_Auth('termux-open {self.links[_ops-1]}')
+				_Auth(f'termux-open {self.links[_ops-1]}')
 				_KusoNime(self.url)
 			else:
 				exit(f' {b}[{m}»{p}Eror{m}«{b}]{p} Your Choice Out Of Range!')
