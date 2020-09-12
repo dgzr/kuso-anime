@@ -1,6 +1,6 @@
 ```
-~ Cuman Biar Gak Ribet Pas Download Anime 
-  Batch , di Kusonime.com
+~ wkwkwk,udah gak bisa bro, web nya di pasangin cloudflare 
+Plus captcha , 
 ```
 
 
